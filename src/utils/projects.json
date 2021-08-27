@@ -1,0 +1,28 @@
+{
+    "projects":[
+        {
+            "_id":"p01",
+            "tag":"RESOURCES",
+            "title":"Refreshing Designs",
+            "detail":"Quench satisfying designs to help you stir up emotion and tell a story.",
+            "img":"https://images.unsplash.com/photo-1571032555647-37380b4bdfe5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "color":"#C026D3"
+        },
+        {
+            "_id":"p02",
+            "tag":"LIFESTYLE",
+            "title":"Healthier LifeStyle",
+            "detail":"Living a healthier lifestyle will help with your productivity and your mind-set.",
+            "img":"https://images.unsplash.com/photo-1557800636-894a64c1696f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=401&q=80",
+            "color":"#0EA5E9"
+        },
+        {
+            "_id":"p03",
+            "tag":"ENTERTAINMENT",
+            "title":"Gaming Evolution",
+            "detail":"Learn about the evolution of gaming and how it started a revolution",
+            "img":"https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+            "color":"#FBBF24"
+        }
+    ]
+}

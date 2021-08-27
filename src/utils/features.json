@@ -1,0 +1,36 @@
+{
+    "features": [
+        {
+            "_id": "f01",
+            "title":"Certifications",
+            "description":"Each of our plan will provide you and your team with certifications."
+        },
+        {
+            "_id":"f02",
+            "title":"Notifications",
+            "description":"Send our notifications to all your customers to keep them engaged."
+        },
+
+        {
+            "_id":"f03",
+            "title":"Bundles",
+            "description":"High-quality bundles of awesome tools to help you out."
+        },
+        {
+            "_id":"f04",
+            "title":"Developer Tools",
+            "description":"Developer tools to help grow your applications and keep it up-to-date."
+        },
+        {
+            "_id":"f05",
+            "title":"Building Blocks",
+            "description":"The right kind of building blocks to take your company to the next level."
+        },
+
+        {
+            "_id":"f06",
+            "title":"Coupons",
+            "description":"Coupons system to provide special offers and discounts for your app."
+        }
+    ]
+}
