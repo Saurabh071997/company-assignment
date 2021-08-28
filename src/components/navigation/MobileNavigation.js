@@ -69,7 +69,7 @@ export const MobileNavigation = () => {
         <Toolbar className={classes.toolbar}>
           <Container
             style={{
-              borderBottom: "0.25px solid #A1A1AA",
+              borderBottom: "0.25px solid #D4D4D8",
               padding: "0.5rem",
             }}
           >

@@ -1,5 +1,5 @@
 {
-    "Companies":[
+    "companies":[
         {
             "_id":"c01",
             "img":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
@@ -14,7 +14,7 @@
         },
         {
             "_id":"c04",
-            "img":"https://www.mygrow.me/wp-content/uploads/2020/03/302-3020719_youtube-music-logo-png-transparent-background-youtube-logo.jpg"
+            "img":"https://www.vippng.com/png/detail/85-853653_patreon-logo-png-transparent-background-youtube-logo.png"
         },
         {
             "_id":"c05",
@@ -22,7 +22,7 @@
         },
         {
             "_id":"c06",
-            "img":"https://www.citypng.com/public/uploads/preview/-11597191761n5ghafjnrt.png"
+            "img":"https://swym.it/wp-content/uploads/2020/01/shopify-logo-png-shopify-logo-3076-1.png"
         }
     ]
 }

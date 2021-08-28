@@ -18,7 +18,7 @@ export const DesktopNavigation = () => {
           <Container
             maxWidth="lg"
             style={{
-              borderBottom: "0.25px solid #A1A1AA",
+              borderBottom: "0.25px solid #D4D4D8",
               padding: "0.5rem 0rem",
             }}
           >
