@@ -7,7 +7,7 @@ export const TeamCard = ({ item }) => {
   const classes = useStyles();
 
   return (
-    <Grid item key={item._id} xs={6} md={3}>
+    <Grid item key={item._id} xs={6} md={3} style={{zIndex:10}}>
       <div
         style={{
           display: "flex",

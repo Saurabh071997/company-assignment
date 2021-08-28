@@ -10,7 +10,7 @@ export const Hero = () => {
     <>
       <div className={classes.heroContainer}>
         <Container maxWidth="sm">
-          <div style={{ height: "10vh" }}></div>
+          <div className="height10"></div>
           <Typography variant="h2" align="center" className={classes.heroTitle}>
             Start Crafting Your
           </Typography>
@@ -80,7 +80,7 @@ export const Hero = () => {
         </Container>
       </div>
 
-      <div style={{ minHeight: "10vh" }}></div>
+      <div className="height10"></div>
       <div className={classes.container}>
         <Container maxWidth="md">
           <Grid
@@ -193,7 +193,7 @@ export const Hero = () => {
           </Grid>
         </Container>
       </div>
-      <div style={{ height: "10vh" }}></div>
+      <div className="height10"></div>
     </>
   );
 };

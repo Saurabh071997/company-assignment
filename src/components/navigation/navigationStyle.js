@@ -21,6 +21,16 @@ export default makeStyles(() => ({
     width: "40%",
   },
 
+  btnSignUp:{
+    backgroundColor: "#7C3AED",
+    borderRadius: "2.5rem",
+    marginLeft: "0.5rem",
+    color: "white",
+    '&:hover':{
+      backgroundColor: "#7C3AED",
+    }
+  },
+
   option: {
     marginTop: "0.25rem",
     color: "#404040",

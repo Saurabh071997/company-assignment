@@ -67,12 +67,7 @@ export const DesktopNavigation = () => {
                     <Button
                       variant="contained"
                       size="small"
-                      style={{
-                        backgroundColor: "#7C3AED",
-                        borderRadius: "2.5rem",
-                        marginLeft: "0.5rem",
-                        color: "white",
-                      }}
+                      className={classes.btnSignUp}
                     >
                       Sign Up
                     </Button>

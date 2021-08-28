@@ -6,7 +6,7 @@ const { features } = require("../../utils/features.json");
 export const Features = () => {
   return (
     <>
-      <div style={{ minHeight: "100vh" }}>
+      <div className="height100">
         <Typography
           variant="h4"
           align="center"
@@ -31,7 +31,7 @@ export const Features = () => {
           </Grid>
         </Container>
       </div>
-      <div style={{ height: "10vh" }}></div>
+      <div className="height10"></div>
     </>
   );
 };

@@ -53,6 +53,7 @@ export const Team = () => {
           </Grid>
         </Container>
       </div>
+      <div style={{ height: "10vh" }}></div>
     </>
   );
 };

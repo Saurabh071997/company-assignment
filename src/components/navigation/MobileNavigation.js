@@ -47,11 +47,10 @@ export const MobileNavigation = () => {
           <Button
             variant="contained"
             size="large"
+            className={classes.btnSignUp}
             style={{
-              backgroundColor: "#7C3AED",
-              borderRadius: "2.5rem",
-              color: "white",
               fontSize: "1.5rem",
+              marginLeft: "0rem",
             }}
           >
             Sign Up

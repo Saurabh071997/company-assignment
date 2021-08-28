@@ -19,9 +19,9 @@ const icons = {
 export const FeatureCard = ({ item }) => {
   const classes = useStyles();
   return (
-    <Grid item key={item._id} xs={12} md={4}>
+    <Grid item key={item._id} xs={12} sm={6} md={4}>
       <div className={classes.featureCard}>
-        <div style={{ display: "flex", flexDirection: "column" }}>
+        <div className="flexCol">
           <div style={{ display: "flex", justifyContent: "center" }}>
             <IconButton
               disabled={true}
