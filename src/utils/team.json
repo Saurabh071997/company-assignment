@@ -1,0 +1,68 @@
+{
+  "team": [
+    {
+      "_id": "t01",
+      "name": "Freddy Smith",
+      "designation": "CEO and Founder",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066965/blowhorn/freddy_z6krrx.png",
+      "bgColor": "#4ADE80",
+      "bg": "#BBF7D0"
+    },
+    {
+      "_id": "t02",
+      "name": "Carl Jones",
+      "designation": "CTO anf Co-Founder",
+      "img": "https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/carl_pst0yg.png",
+      "bgColor": "#A78BFA",
+      "bg": "#DDD6FE"
+    },
+    {
+      "_id": "t03",
+      "name": "Susan Peterson",
+      "designation": "Marketing Director",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/susan_f3di0d.png",
+      "bgColor": "#FB923C",
+      "bg": "#FED7AA"
+    },
+    {
+      "_id": "t04",
+      "name": "Tommy Barnes",
+      "designation": "Designer",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/tommy_mlbqvz.png",
+      "bgColor": "#2DD4BF",
+      "bg": "#99F6E4"
+    },
+    {
+      "_id": "t05",
+      "name": "Ron Jenson",
+      "designation": "Senior Developer",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/ron_pnm1lk.png",
+      "bgColor": "#2DD4BF",
+      "bg": "#99F6E4"
+    },
+    {
+      "_id": "t06",
+      "name": "Pete Tompkins",
+      "designation": "Web Developer",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/pete_vh4zp7.png",
+      "bgColor": "#FB923C",
+      "bg": "#FED7AA"
+    },
+    {
+      "_id": "t07",
+      "name": "Kelly Richards",
+      "designation": "Sales Manager",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/kelly_vpt6nw.png",
+      "bgColor": "#4ADE80",
+      "bg": "#BBF7D0"
+    },
+    {
+      "_id": "t08",
+      "name": "Alexis Jordan",
+      "designation": "Affiliate Manager",
+      "img":"https://res.cloudinary.com/saurabhkamboj/image/upload/v1630066964/blowhorn/alexis_wzx6es.png",
+      "bgColor": "#A78BFA",
+      "bg": "#DDD6FE"
+    }
+  ]
+}

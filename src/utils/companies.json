@@ -1,0 +1,28 @@
+{
+    "companies":[
+        {
+            "_id":"c01",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
+        },
+        {
+            "_id":"c02",
+            "img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png"
+        },
+        {
+            "_id":"c03",
+            "img":"https://www.horseshoeco.com/hs-fs/hubfs/hubspot-400x200.png?width=400&height=150&name=hubspot-400x200.png"
+        },
+        {
+            "_id":"c04",
+            "img":"https://www.vippng.com/png/detail/85-853653_patreon-logo-png-transparent-background-youtube-logo.png"
+        },
+        {
+            "_id":"c05",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1200px-Slack_Technologies_Logo.svg.png"
+        },
+        {
+            "_id":"c06",
+            "img":"https://swym.it/wp-content/uploads/2020/01/shopify-logo-png-shopify-logo-3076-1.png"
+        }
+    ]
+}
