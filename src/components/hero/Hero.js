@@ -67,7 +67,7 @@ export const Hero = () => {
           TRUSTED BY TOP-LEADING COMPANIES
         </Typography>
 
-        <Container maxWidth={width<=700 ? false : 'md'} >
+        <Container maxWidth={width <= 700 ? false : "md"}>
           <div className="company-list">
             {companies.map((item) => {
               return (
@@ -193,6 +193,7 @@ export const Hero = () => {
           </Grid>
         </Container>
       </div>
+      <div style={{ height: "10vh" }}></div>
     </>
   );
 };
