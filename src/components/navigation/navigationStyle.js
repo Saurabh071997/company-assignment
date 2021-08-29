@@ -7,7 +7,7 @@ export default makeStyles(() => ({
 
   toolbar: {
     backgroundColor: "white",
-    padding: "0rem",
+    padding: "0rem 0.35rem",
   },
 
   navOptions: {
@@ -32,7 +32,7 @@ export default makeStyles(() => ({
   },
 
   option: {
-    marginTop: "0.25rem",
+    margin:'0.25rem 0.35rem',
     color: "#404040",
     cursor: "pointer",
     "&:hover": {
