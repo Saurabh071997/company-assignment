@@ -22,7 +22,7 @@ export const DesktopNavigation = () => {
               padding: "0.5rem 0rem",
             }}
           >
-            <Grid container direction="row">
+            <Grid container direction="row" justifyContent="space-around">
               <Grid item>
                 <Typography
                   variant="h5"
@@ -60,7 +60,7 @@ export const DesktopNavigation = () => {
                     <Typography
                       variant="body1"
                       className={classes.option}
-                      style={{ marginTop: "0.25rem" }}
+                      style={{ margin: "0.25rem 0rem 0rem 0rem" }}
                     >
                       Sign In
                     </Typography>
